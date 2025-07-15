@@ -1,0 +1,24 @@
+🎯 INSTRUCCIONES RÁPIDAS PARA HOSTINGER
+
+## PASO 1: Ve a tu Hostinger Builder
+URL: https://builder.hostinger.com/YanJQaDMXxSXqqO3
+
+## PASO 2: Sube ESTOS archivos desde tu carpeta "out"
+
+📁 ARCHIVOS A SUBIR (desde la carpeta out/):
+✅ index.html
+✅ 404.html  
+✅ index.txt
+✅ carpeta _next/ (COMPLETA con subcarpetas)
+✅ carpeta cotizar/ (COMPLETA)
+✅ carpeta 404/ (COMPLETA)
+
+## PASO 3: Configurar
+- Página principal: index.html
+- Dominio: mypassets.com
+
+## RESULTADO
+✅ Sitio principal: https://mypassets.com
+✅ Cotizador: https://mypassets.com/cotizar/
+
+¡LISTO! Tu sitio de Alan Nico Seguros estará online en Hostinger.
