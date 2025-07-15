@@ -2,6 +2,8 @@
 
 Plataforma de cotización de seguros inspirada en Sancor Seguros, con diseño moderno y experiencia de usuario optimizada.
 
+🚀 **Versión Actualizada** - Despliegue en Vercel
+
 ## Características
 
 - 🚗 **Cotización de Auto**: Formulario paso a paso inspirado en Sancor Seguros
