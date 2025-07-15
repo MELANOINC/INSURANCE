@@ -1,0 +1,24 @@
+# INSTRUCCIONES DE DEPLOYMENT - ALAN NICO SEGUROS
+# Copia y pega estos comandos uno por uno en la terminal de VS Code
+
+# 1. Inicializar repositorio Git (si no existe)
+git init
+
+# 2. Configurar repositorio remoto
+git remote add origin https://github.com/MELANOINC/INSURANCE.git
+
+# 3. Agregar todos los archivos
+git add .
+
+# 4. Hacer commit
+git commit -m "Fix Vercel deployment - Remove obsolete appDir configuration"
+
+# 5. Hacer push (forzado si es necesario)
+git push -u origin main --force
+
+# 6. Verificar estado
+git status
+
+echo "🎉 Deployment completado!"
+echo "📱 ID del proyecto Vercel: prj_i5HkQ0Het7K5xvoBfcbHPLZfYWnP"
+echo "🌐 Tu sitio estará disponible en: https://insurance-melanoinc.vercel.app"
